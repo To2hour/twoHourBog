@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://to2hour.github.io/twoHourBog/"
+baseurl      = "https://blog.twohour.top/"
 languageCode = "en-us"
 title        = "twoHourBlog"
 
