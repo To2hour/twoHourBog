@@ -5,7 +5,7 @@ description: Sample article showcasing basic Markdown syntax and formatting for 
 tags: 
     - markdown
     - css
-    - html
+    - html  
     - themes
 categories:
     - themes
